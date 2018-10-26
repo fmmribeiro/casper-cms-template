@@ -4,3 +4,7 @@
 
 [context.deploy-preview]
   command = "npm run build-preview"
+
+ baseurl = "/"
+ languageCode = "pt-PT"
+ title = "Tasty Licks"

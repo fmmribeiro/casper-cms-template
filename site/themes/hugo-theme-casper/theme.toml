@@ -15,3 +15,15 @@ min_version=0.14
   name = "Casper"
   homepage = "https://github.com/TryGhost/Casper"
   repo = "https://github.com/TryGhost/Casper"
+
+[[menu.main]]
+  name = "My Blog"
+  weight = -120
+  identifier = "blog"
+  url = "/"
+
+[[menu.main]]
+  name = "About me"
+  weight = -110
+  identifier = "about"
+  url = "/about"
