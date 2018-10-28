@@ -28,6 +28,7 @@ canonifyurls = true
   hideHUGOSupport = true
   [params.social]
     twitter = "fmmribeiro"
+
 [menu]
 
   [[menu.main]]
